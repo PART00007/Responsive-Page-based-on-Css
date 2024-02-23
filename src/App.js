@@ -6,8 +6,8 @@ import Gallery from "./Components/Gallery";
 import Nav2 from "./Components/Nav2";
 function App() {
   return <div className="App">
-    <Nav2/>
-  
+     <Nav2/>
+   
    <Gallery/>
    
   </div>;
